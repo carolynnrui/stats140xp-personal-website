@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "onstage_highlights.html",
+    "href": "onstage_highlights.html",
+    "title": "Onstage Highlights",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Here are pics of me onstage"
   },
   {
     "objectID": "index.html",
@@ -28,11 +28,11 @@
     "text": "Experience\nHooligan Theater Company | Finance Associate | April 2023 - Current\nTenants Law Firm | Legal Assistant | April 2023 - Oct 2023"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "projects",
+    "objectID": "projects/project_2.html",
+    "href": "projects/project_2.html",
+    "title": "Project 2",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nInvalid Date\n\n\nProject 1\n\n\nCarolynn Rui\n\n\n\n\nInvalid Date\n\n\nProject 2\n\n\nCarolynn Rui\n\n\n\n\n\nNo matching items"
+    "text": "blah"
   },
   {
     "objectID": "projects/project_1.html",
@@ -40,5 +40,19 @@
     "title": "Project 1",
     "section": "",
     "text": "blah"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nInvalid Date\n\n\nProject 1\n\n\nCarolynn Rui\n\n\n\n\nInvalid Date\n\n\nProject 2\n\n\nCarolynn Rui\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
