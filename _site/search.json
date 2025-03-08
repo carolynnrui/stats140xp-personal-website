@@ -9,8 +9,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Personal Website",
+    "title": "Carolynn Rui",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.02816383 0.79499751 0.32690003 0.81746199 0.80447952 0.40860713\n [7] 0.27786139 0.64571685 0.14210124 0.82110599\n\nrnorm(10)\n\n [1] -0.13968048 -0.95550450  0.69178681  0.51678402 -0.70738936 -0.50152957\n [7]  0.44822910  0.23892701  0.50582194  0.05850778\n\n\n\nx &lt;- 10\nprint(x)\n\n[1] 10\n\ny &lt;- 22\nprint(y)\n\n[1] 22"
+    "text": "Carolynn Rui is currently a fourth-year UCLA student double majoring in Psychology and Statistics with a minor in Theater. She’s especially interested in how data and human behavior intersect in research, and currently volunteers as a finance associate for Hooligan Theater Company. When she’s not analyzing numbers, she’s probably singing, performing, or planning her next adventure with friends. On weekends, you’ll find her exploring new spots in LA, trying out fun activities, or just making great memories with the people around her. If you’re interested in her previous work and leadership experience, take a look at her resume!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Carolynn Rui",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.A. in Psychology & B.S. in Statistics and Data Science | Sept 2021 - June 2025\nRancho Bernardo High School | High School Diploma | Sept 2017 - June 2021"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Carolynn Rui",
+    "section": "Experience",
+    "text": "Experience\nHooligan Theater Company | Finance Associate | April 2023 - Current\nTenants Law Firm | Legal Assistant | April 2023 - Oct 2023"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nInvalid Date\n\n\nProject 1\n\n\nCarolynn Rui\n\n\n\n\nInvalid Date\n\n\nProject 2\n\n\nCarolynn Rui\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/project_1.html",
+    "href": "projects/project_1.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "blah"
   }
 ]

@@ -4,10 +4,15 @@ project:
 website:
   title: "Carolynn Rui"
   navbar:
-    left:
+    right:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Overview
+      - href: about.qmd
+        text: Who I Am
+      - href: projects.qmd
+        text: Projects
+      - href: onstage_highlights.qmd
+        text: Onstage
 
 format:
   html:
