@@ -11,9 +11,12 @@ website:
 
 format:
   html:
-    theme: journal
+    theme: quartz
     css: styles.css
     toc: true
 
 editor: visual
+
+execute:
+  freeze: auto
 

@@ -18,6 +18,9 @@ rnorm(10)
 ```{r}
 x <- 10
 print(x)
+
+y <- 22
+print(y)
 ```
 
 
