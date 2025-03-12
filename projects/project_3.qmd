@@ -1,0 +1,30 @@
+---
+title: "Mind Over Matter: How Test Framing and Score Perception Affect Eating Habits and Self-Efficacy"
+author: "Carolynn Rui"
+date: "12-11-2024"
+---
+
+## Introduction
+
+Academic success and failure can shape emotional responses, influencing behaviors such as eating habits and self-efficacy. Research on emotional eating suggests that individuals may consume more calories when experiencing stress or self-doubt. This study examines how test framing (easy vs. hard) and score perception (pass vs. fail) affect food choices and self-efficacy in undergraduate students. We hypothesized that participants who failed an "easy" test would report lower self-efficacy and select higher-calorie foods as a coping mechanism.
+
+## Study Design
+
+We conducted a 2×2 factorial design with 22 UCLA undergraduates who completed a math quiz framed as either easy or hard. Participants were then randomly assigned a passing (90%) or failing (30%) score. Afterward, they selected food items from a hypothetical menu, and self-efficacy was measured using the General Self-Efficacy Scale (GSES). The main dependent variables were caloric intake, food consumption score (FCS), and self-efficacy scores.
+
+## Key Findings
+
+- Participants who were told they passed selected slightly higher-calorie foods and higher-FCS items, contradicting our initial hypothesis.
+- Self-efficacy scores were more sensitive to test framing than score perception—those in the hard-test condition reported lower self-efficacy, regardless of whether they passed or failed.
+- A two-way ANOVA revealed no statistically significant effects of test framing or score perception on eating behavior or self-efficacy.
+
+## Implications and Future Directions
+
+While past research links emotional states with eating habits, our study found no clear effects of manipulated academic success or failure on food choices. Possible limitations include low stakes, limited emotional investment, and an overwhelming number of menu options, which may have reduced decision-making accuracy. Future research could:
+- Introduce real academic pressure (e.g., real grades or timed tests) to enhance emotional engagement.
+- Use a more controlled menu to prevent decision fatigue.
+- Expand the sample size to detect potential subtle effects.
+
+## Conclusions
+
+Our findings suggest that in low-stakes settings, test difficulty and score perception may not significantly alter eating behaviors. However, understanding the link between academic experiences, self-efficacy, and coping behaviors remains important for addressing emotional eating and student well-being. Future research should refine methodologies to explore these relationships under more realistic conditions.

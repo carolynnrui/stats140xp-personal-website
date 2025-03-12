@@ -65,23 +65,23 @@
   {
     "objectID": "projects/project_2.html",
     "href": "projects/project_2.html",
-    "title": "Project 2",
+    "title": "Predicting Obesity Status Using Machine Learning Models",
     "section": "",
     "text": "blah"
   },
   {
     "objectID": "projects/project_1.html",
     "href": "projects/project_1.html",
-    "title": "Project 1",
+    "title": "Effects of Exercise and Chocolate on Endorphin Levels in Women",
     "section": "",
-    "text": "blah"
+    "text": "This study examines how exercise and chocolate consumption impact endorphin levels in women across different age groups. Endorphins are neurotransmitters that play a crucial role in mood regulation, pain relief, and stress reduction. Prior research has established that both physical activity and chocolate independently contribute to increased endorphin production, but their combined effects remain less explored. Our study aimed to determine whether these factors interact to enhance endorphin release."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nInvalid Date\n\n\nProject 1\n\n\nCarolynn Rui\n\n\n\n\nInvalid Date\n\n\nProject 2\n\n\nCarolynn Rui\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nSep 20, 2024\n\n\nEffects of Exercise and Chocolate on Endorphin Levels in Women\n\n\nCarolynn Rui\n\n\n\n\nDec 16, 2024\n\n\nPredicting Obesity Status Using Machine Learning Models\n\n\nCarolynn Rui\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -89,5 +89,40 @@
     "title": "About",
     "section": "",
     "text": "Carolynn Rui is currently a fourth-year UCLA student double majoring in Psychology and Statistics with a minor in Theater. She’s especially interested in how data and human behavior intersect in research, and currently volunteers as a finance associate for Hooligan Theater Company. When she’s not analyzing numbers, she’s probably singing, performing, or planning her next adventure with friends. On weekends, you’ll find her exploring new spots in LA, trying out fun activities, or just making great memories with the people around her. If you’re interested in her previous work and leadership experience, take a look at her resume!"
+  },
+  {
+    "objectID": "projects/project_1.html#introduction",
+    "href": "projects/project_1.html#introduction",
+    "title": "Effects of Exercise and Chocolate on Endorphin Levels in Women",
+    "section": "",
+    "text": "This study examines how exercise and chocolate consumption impact endorphin levels in women across different age groups. Endorphins are neurotransmitters that play a crucial role in mood regulation, pain relief, and stress reduction. Prior research has established that both physical activity and chocolate independently contribute to increased endorphin production, but their combined effects remain less explored. Our study aimed to determine whether these factors interact to enhance endorphin release."
+  },
+  {
+    "objectID": "projects/project_1.html#study-design",
+    "href": "projects/project_1.html#study-design",
+    "title": "Effects of Exercise and Chocolate on Endorphin Levels in Women",
+    "section": "Study Design",
+    "text": "Study Design\nUsing a two-way randomized block design, we analyzed 162 virtual participants from The Islands online research platform. To account for potential age-related differences in endorphin levels, participants were grouped into three age categories: - Young Adults (18-34) - Middle-Aged Adults (35-54) - Older Adults (55 and above)\nParticipants were randomly assigned to one of six treatment conditions based on:\n\nExercise – No exercise vs. Light jogging (5 minutes)\nChocolate Consumption – No chocolate, 40% cocoa chocolate, or 99% cocoa chocolate\nEndorphin levels were measured in pg/mL after treatment conditions to assess changes."
+  },
+  {
+    "objectID": "projects/project_1.html#key-findings",
+    "href": "projects/project_1.html#key-findings",
+    "title": "Effects of Exercise and Chocolate on Endorphin Levels in Women",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nBoth exercise and chocolate significantly increased endorphin levels\n\nParticipants who exercised had higher endorphin levels than those who did not (p = 0.009).\nChocolate consumption had an even stronger effect (p &lt; 2.44e-45), with darker chocolate (99% cocoa) leading to the highest endorphin levels.\n\nNo significant interaction between exercise and chocolate was observed\n\nThis suggests that while both factors independently raise endorphin levels, their effects do not compound when combined.\n\nAge was not a significant factor\n\nDespite prior research indicating that younger individuals may experience greater endorphin responses, we found no significant differences across age groups in our study."
+  },
+  {
+    "objectID": "projects/project_1.html#implications-future-directions",
+    "href": "projects/project_1.html#implications-future-directions",
+    "title": "Effects of Exercise and Chocolate on Endorphin Levels in Women",
+    "section": "Implications & Future Directions",
+    "text": "Implications & Future Directions\nThese results suggest that simple lifestyle choices—such as engaging in light exercise and consuming dark chocolate—can naturally enhance mood and well-being. The lack of an observed interaction between the two factors, however, indicates that their effects remain independent rather than synergistic.\nFuture research could refine these findings by examining:\n\nLonger durations or higher intensities of exercise\nAdditional dietary factors that may influence endorphin production\nHormonal and social variables (e.g., stress levels, menstrual cycles, time of day) that could impact endorphin fluctuations"
+  },
+  {
+    "objectID": "projects/project_1.html#conclusion",
+    "href": "projects/project_1.html#conclusion",
+    "title": "Effects of Exercise and Chocolate on Endorphin Levels in Women",
+    "section": "Conclusion",
+    "text": "Conclusion\nWhile both chocolate and exercise are effective in boosting endorphin levels, they do not appear to enhance each other’s effects. Nonetheless, incorporating these accessible habits into daily life may be a natural and enjoyable way to improve mental well-being."
   }
 ]

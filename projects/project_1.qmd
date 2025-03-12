@@ -1,7 +1,43 @@
 ---
-title: "Project 1"
+title: "Effects of Exercise and Chocolate on Endorphin Levels in Women"
 author: "Carolynn Rui"
-date: "day month year"
+date: "09-20-2024"
 ---
 
-blah
+## Introduction
+
+This study examines how exercise and chocolate consumption impact endorphin levels in women across different age groups. Endorphins are neurotransmitters that play a crucial role in mood regulation, pain relief, and stress reduction. Prior research has established that both physical activity and chocolate independently contribute to increased endorphin production, but their combined effects remain less explored. Our study aimed to determine whether these factors interact to enhance endorphin release.
+
+## Study Design
+
+Using a two-way randomized block design, we analyzed 162 virtual participants from The Islands online research platform. To account for potential age-related differences in endorphin levels, participants were grouped into three age categories: - Young Adults (18-34) - Middle-Aged Adults (35-54) - Older Adults (55 and above)
+
+Participants were randomly assigned to one of six treatment conditions based on:
+
+-   Exercise – No exercise vs. Light jogging (5 minutes)
+-   Chocolate Consumption – No chocolate, 40% cocoa chocolate, or 99% cocoa chocolate
+-   Endorphin levels were measured in pg/mL after treatment conditions to assess changes.
+
+## Key Findings
+
+-   Both exercise and chocolate significantly increased endorphin levels
+    -   Participants who exercised had higher endorphin levels than those who did not (p = 0.009).
+    -   Chocolate consumption had an even stronger effect (p \< 2.44e-45), with darker chocolate (99% cocoa) leading to the highest endorphin levels.
+-   No significant interaction between exercise and chocolate was observed
+    -   This suggests that while both factors independently raise endorphin levels, their effects do not compound when combined.
+-   Age was not a significant factor
+    -   Despite prior research indicating that younger individuals may experience greater endorphin responses, we found no significant differences across age groups in our study.
+
+## Implications & Future Directions
+
+These results suggest that simple lifestyle choices—such as engaging in light exercise and consuming dark chocolate—can naturally enhance mood and well-being. The lack of an observed interaction between the two factors, however, indicates that their effects remain independent rather than synergistic.
+
+Future research could refine these findings by examining:
+
+-   Longer durations or higher intensities of exercise
+-   Additional dietary factors that may influence endorphin production
+-   Hormonal and social variables (e.g., stress levels, menstrual cycles, time of day) that could impact endorphin fluctuations
+
+## Conclusion
+
+While both chocolate and exercise are effective in boosting endorphin levels, they do not appear to enhance each other’s effects. Nonetheless, incorporating these accessible habits into daily life may be a natural and enjoyable way to improve mental well-being.
