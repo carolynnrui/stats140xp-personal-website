@@ -1,0 +1,83 @@
+---
+title: "How Much in Common Do We Have?"
+format: html
+---
+
+## Welcome to the Quiz!
+
+Let's find out how much we have in common! Answer the following questions, and we'll see your final score at the end.
+
+```{=html}
+<!-- The Quiz -->
+<div id="quiz-container">
+  <h3>Question 1: What’s your go-to UCLA study spot?</h3>
+  <form id="quiz-form">
+    <label><input type="radio" name="q1" value="A"> A) Powell Library 📚</label><br>
+    <label><input type="radio" name="q1" value="B"> B) Kerckhoff Coffeehouse ☕</label><br>
+    <label><input type="radio" name="q1" value="C"> C) Any empty classroom I can find 🤓</label><br>
+    <label><input type="radio" name="q1" value="D"> D) I don’t study, I vibe ✨</label><br>
+
+    <h3>Question 2: Ideal way to spend a free Saturday?</h3>
+    <label><input type="radio" name="q2" value="A"> A) Exploring a new LA restaurant 🍽️</label><br>
+    <label><input type="radio" name="q2" value="B"> B) Performing or seeing a show 🎭</label><br>
+    <label><input type="radio" name="q2" value="C"> C) Going down a random stats rabbit hole 📊</label><br>
+    <label><input type="radio" name="q2" value="D"> D) Beach day with friends ☀️</label><br>
+
+    <h3>Question 3: How do you feel about spreadsheets?</h3>
+    <label><input type="radio" name="q3" value="A"> A) Love them, color-coded and all 🟩🟨</label><br>
+    <label><input type="radio" name="q3" value="B"> B) Use them, but only when I have to 😬</label><br>
+    <label><input type="radio" name="q3" value="C"> C) They haunt my dreams 👻</label><br>
+    <label><input type="radio" name="q3" value="D"> D) What’s a spreadsheet? 🤔</label><br>
+
+    <h3>Question 4: Karaoke night—what’s your song?</h3>
+    <label><input type="radio" name="q4" value="A"> A) A Broadway classic 🎶</label><br>
+    <label><input type="radio" name="q4" value="B"> B) A pop anthem everyone screams along to 🎤</label><br>
+    <label><input type="radio" name="q4" value="C"> C) Something super obscure to flex my music taste 🎧</label><br>
+    <label><input type="radio" name="q4" value="D"> D) No way, I’m just here for moral support 👀</label><br>
+
+    <button type="button" onclick="calculateScore()">Submit</button>
+  </form>
+</div>
+
+<div id="result-container" style="display: none;">
+  <h3>Your Result: </h3>
+  <p id="quiz-result"></p>
+</div>
+
+<script>
+function calculateScore() {
+  const answers = {
+    q1: document.querySelector('input[name="q1"]:checked'),
+    q2: document.querySelector('input[name="q2"]:checked'),
+    q3: document.querySelector('input[name="q3"]:checked'),
+    q4: document.querySelector('input[name="q4"]:checked')
+  };
+  
+  if (!answers.q1 || !answers.q2 || !answers.q3 || !answers.q4) {
+    alert('Please answer all questions!');
+    return;
+  }
+
+  let score = 0;
+  
+  // Scoring based on answer similarity (change values as needed)
+  if (answers.q1.value === 'A') score += 10;
+  if (answers.q2.value === 'B') score += 10;
+  if (answers.q3.value === 'A') score += 10;
+  if (answers.q4.value === 'B') score += 10;
+
+  let resultMessage = '';
+  if (score >= 30) {
+    resultMessage = "We’re practically twins! 💥";
+  } else if (score >= 20) {
+    resultMessage = "We have some similarities! Let’s chat more! 😎";
+  } else {
+    resultMessage = "We might not have everything in common, but that’s okay! 😊";
+  }
+
+  // Hide the quiz form and show the result
+  document.getElementById('quiz-container').style.display = 'none';
+  document.getElementById('result-container').style.display = 'block';
+  document.getElementById('quiz-result').innerText = resultMessage;
+}
+</script>

@@ -2,4 +2,104 @@
 title: "About"
 ---
 
-Carolynn Rui is currently a fourth-year UCLA student double majoring in Psychology and Statistics with a minor in Theater. She's especially interested in how data and human behavior intersect in research, and currently volunteers as a finance associate for Hooligan Theater Company. When she’s not analyzing numbers, she’s probably singing, performing, or planning her next adventure with friends. On weekends, you’ll find her exploring new spots in LA, trying out fun activities, or just making great memories with the people around her. If you're interested in her previous work and leadership experience, take a look at her [resume](/Resume.pdf){target="_blank"}!
+Carolynn Rui is currently a fourth-year UCLA student double majoring in Psychology and Statistics with a minor in Theater. She's especially interested in how data and human behavior intersect in research, and currently volunteers as a finance associate for Hooligan Theater Company. When she’s not analyzing numbers, she’s probably singing, performing, or planning her next adventure with friends. On weekends, you’ll find her exploring new spots in LA, trying out fun activities, or just making great memories with the people around her. If you're interested in her previous work and leadership experience, take a look at her [resume](/Resume.pdf){target="_blank"}! If you’re curious about how much you have in common with h er, why not take the quiz below and find out? 
+
+<div id="quiz">
+## How Much Do We Have in Common?
+
+Let's find out how much we have in common! Answer the following questions, and we'll see how compatible we are at the end.
+
+```{=html}
+<!-- The Quiz -->
+<div id="quiz-container">
+  <h3>Question 1: What’s your go-to UCLA study spot?</h3>
+  <form id="quiz-form">
+    <label><input type="radio" name="q1" value="A"> A) Powell Library</label><br>
+    <label><input type="radio" name="q1" value="B"> B) Kerckhoff Coffeehouse </label><br>
+    <label><input type="radio" name="q1" value="C"> C) A Local Coffee Shop </label><br>
+    <label><input type="radio" name="q1" value="D"> D) Young Research Library </label><br>
+
+    <h3>Question 2: Ideal way to spend a free Saturday?</h3>
+    <label><input type="radio" name="q2" value="A"> A)️ Spending the day shopping with friends</label><br>
+    <label><input type="radio" name="q2" value="B"> B) Performing or seeing a show </label><br>
+    <label><input type="radio" name="q2" value="C"> C) Relaxing with a movie </label><br>
+    <label><input type="radio" name="q2" value="D"> D)️ Going to the beach </label><br>
+
+    <h3>Question 3: What is your spirit animal?</h3>
+    <label><input type="radio" name="q3" value="A"> A) Orca </label><br>
+    <label><input type="radio" name="q3" value="B"> B) Elephant </label><br>
+    <label><input type="radio" name="q3" value="C"> C) Tiger </label><br>
+    <label><input type="radio" name="q3" value="D"> D) Rabbit </label><br>
+
+    <h3>Question 4: What's your go-to karaoke song?</h3>
+    <label><input type="radio" name="q4" value="A"> A) "I Will Survive" by Gloria Gaynor </label><br>
+    <label><input type="radio" name="q4" value="B"> B) "Pink Pony Club" by Chappell Roan </label><br>
+    <label><input type="radio" name="q4" value="C"> C) "Bohemian Rhapsody" by Queen </label><br>
+    <label><input type="radio" name="q4" value="D"> D) I don't sing </label><br>
+    
+    <h3>Question 5: Pick a genre of music you like: </h3>
+    <label><input type="radio" name="q5" value="A"> A) Pop </label><br>
+    <label><input type="radio" name="q5" value="B"> B) Rock </label><br>
+    <label><input type="radio" name="q5" value="C"> C) Classical </label><br>
+    <label><input type="radio" name="q5" value="D"> D) Showtunes </label><br>
+
+    <button type="button" onclick="calculateScore()">Submit</button>
+  </form>
+</div>
+
+<div id="result-container" style="display: none;">
+  <h3>Your Result: </h3>
+  <p id="quiz-result"></p>
+  <button class="quiz-button" onclick="resetQuiz()">Take the Quiz Again</button>
+</div>
+
+<script>
+function calculateScore() {
+  const answers = {
+    q1: document.querySelector('input[name="q1"]:checked'),
+    q2: document.querySelector('input[name="q2"]:checked'),
+    q3: document.querySelector('input[name="q3"]:checked'),
+    q4: document.querySelector('input[name="q4"]:checked'),
+    q5: document.querySelector('input[name="q5"]:checked')
+  };
+  
+  if (!answers.q1 || !answers.q2 || !answers.q3 || !answers.q4 || !answers.q5) {
+    alert('Please answer all questions!');
+    return;
+  }
+
+  let score = 0;
+  
+  // Scoring based on answer similarity (change values as needed)
+  if (answers.q1.value === 'D') score += 10;
+  if (answers.q2.value === 'C') score += 10;
+  if (answers.q3.value === 'A') score += 10;
+  if (answers.q4.value === 'A') score += 10;
+  if (answers.q4.value === 'D') score += 10;
+
+  let resultMessage = '';
+  if (score >= 40) {
+    resultMessage = "We’re practically twins! 💥";
+  } else if (score >= 20) {
+    resultMessage = "We have some similarities! Let’s chat more! 😎";
+  } else {
+    resultMessage = "We might not have everything in common, but that’s okay! 😊";
+  }
+
+  // Hide the quiz form and show the result
+  document.getElementById('quiz-container').style.display = 'none';
+  document.getElementById('result-container').style.display = 'block';
+  document.getElementById('quiz-result').innerText = resultMessage;
+}
+
+function resetQuiz() {
+  // Reset the quiz form
+  const form = document.getElementById('quiz-form');
+  form.reset();
+
+  // Hide the result container and show the quiz again
+  document.getElementById('result-container').style.display = 'none';
+  document.getElementById('quiz-container').style.display = 'block';
+}
+</script>
+</div>

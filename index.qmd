@@ -17,7 +17,7 @@ about:
       target: _blank
 ---
 
-Hi! I'm Carolynn Rui, a fourth-year UCLA student passionate about statistics, psychology and theater -- storytelling occurs in all facets of each of this focuses, whether the medium be through an analysis of the data, a study of the mental processes underlying a phenomena, or a song-and-dance routine. 
+Hi! I'm Carolynn Rui, a fourth-year UCLA student passionate about statistics, psychology and theater -- storytelling occurs in all facets of each of this focuses, whether the medium be through an analysis of the data, a study of the mental processes underlying a phenomena, or a song-and-dance routine.
 
 Explore my website to find out more about the research projects I’ve worked on, my experiences in theater, and how I bridge the gap between data and human expression. Check out my projects, connect with me on GitHub & LinkedIn, or just say hi!
 
@@ -32,6 +32,3 @@ Rancho Bernardo High School \| High School Diploma \| Sept 2017 - June 2021
 Hooligan Theater Company \| Finance Associate \| April 2023 - Current
 
 Tenants Law Firm \| Legal Assistant \| April 2023 - Oct 2023
-
-<p id="secret" style="display: none;">You found the secret! 🎉</p>
-<p onclick="document.getElementById('secret').style.display='block';" style="cursor: pointer; color: blue;">Click me if you dare...</p> 

@@ -6,9 +6,9 @@ website:
   navbar:
     right:
       - href: index.qmd
-        text: Overview
+        text: Home
       - href: about.qmd
-        text: Who I Am
+        text: About Me
       - href: projects.qmd
         text: Projects
       - href: onstage_highlights.qmd

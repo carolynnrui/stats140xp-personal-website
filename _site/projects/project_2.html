@@ -118,7 +118,17 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#study-design" id="toc-study-design" class="nav-link" data-scroll-target="#study-design">Study Design</a></li>
+  <li><a href="#key-findings" id="toc-key-findings" class="nav-link" data-scroll-target="#key-findings">Key Findings</a></li>
+  <li><a href="#implications-and-future-directions" id="toc-implications-and-future-directions" class="nav-link" data-scroll-target="#implications-and-future-directions">Implications and Future Directions</a></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion">Conclusion</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -154,9 +164,31 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>blah</p>
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>Obesity is a growing global health concern linked to lifestyle, genetics, and physiological factors. Traditional methods rely on Body Mass Index (BMI) as a primary indicator, but BMI alone does not fully capture an individual’s health status. This study explores the potential of machine learning models to predict obesity status using a broader set of physiological, behavioral, and demographic predictors. By incorporating variables such as age, heart rate, physical activity, and dietary habits, we aim to identify the most accurate predictive approach.</p>
+</section>
+<section id="study-design" class="level2">
+<h2 class="anchored" data-anchor-id="study-design">Study Design</h2>
+<p>We analyzed a dataset containing 29 predictors related to health, lifestyle, and family history. To ensure robust results, we performed multiple imputation for missing data and conducted exploratory data analysis to refine our predictor selection. The dataset was then split into training and testing sets, and we evaluated five machine learning models: - K-Nearest Neighbors (KNN) - Linear Discriminant Analysis (LDA) - Quadratic Discriminant Analysis (QDA) - Logistic Regression - Random Forest Each model was assessed for predictive accuracy, interpretability, and computational efficiency.</p>
+</section>
+<section id="key-findings" class="level2">
+<h2 class="anchored" data-anchor-id="key-findings">Key Findings</h2>
+<p>Random Forest Achieved the Highest Accuracy - The Random Forest model outperformed all others, with a 98.33% accuracy rate in predicting obesity status. - Its ensemble learning approach allowed for better handling of complex relationships in the data.</p>
+<p>Physical Activity and Hydration Were Strong Predictors - Higher levels of physical activity (FAF) were significantly associated with lower obesity risk. - Water intake (CH2O) also showed a notable relationship with obesity status.</p>
+<p>Traditional Measures Like BMI Were Not Included - Unlike most obesity prediction models, this study excluded BMI and instead relied on alternative health indicators.</p>
+</section>
+<section id="implications-and-future-directions" class="level2">
+<h2 class="anchored" data-anchor-id="implications-and-future-directions">Implications and Future Directions</h2>
+<p>These findings highlight the potential of machine learning for more accurate obesity screening without relying solely on BMI. The study suggests that lifestyle and physiological factors can serve as reliable predictors. However, challenges remain, particularly regarding the interpretability of complex models like Random Forest.</p>
+<p>Future research could explore: - Feature importance analysis to better understand which variables drive predictions. - Deep learning models for improved accuracy and generalization. - Longitudinal studies to track how obesity risk factors change over time.</p>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<p>Machine learning, particularly Random Forest, offers a highly accurate method for predicting obesity based on diverse health indicators. This approach provides a more nuanced alternative to BMI-based classifications, potentially aiding in early obesity detection and personalized health recommendations.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
