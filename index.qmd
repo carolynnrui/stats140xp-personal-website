@@ -13,7 +13,7 @@ about:
       url: "mailto: carolynnrui@ucla.edu"
     - icon: file-text
       text: Resume
-      href: /Resume.pdf
+      href: /updated_resume.pdf
       target: _blank
 ---
 

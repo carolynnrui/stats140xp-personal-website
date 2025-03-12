@@ -1,58 +1,59 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-Carolynn Rui is currently a fourth-year UCLA student double majoring in Psychology and Statistics with a minor in Theater. She's especially interested in how data and human behavior intersect in research, and currently volunteers as a finance associate for Hooligan Theater Company. When she’s not analyzing numbers, she’s probably singing, performing, or planning her next adventure with friends. On weekends, you’ll find her exploring new spots in LA, trying out fun activities, or just making great memories with the people around her. If you're interested in her previous work and leadership experience, take a look at her [resume](/Resume.pdf){target="_blank"}! If you’re curious about how much you have in common with h er, why not take the quiz below and find out? 
+Carolynn Rui is currently a fourth-year UCLA student double majoring in Psychology and Statistics with a minor in Theater. She's especially interested in how data and human behavior intersect in research, and currently volunteers as a finance associate for Hooligan Theater Company. When she’s not analyzing numbers, she’s probably singing, performing, or planning her next adventure with friends. On weekends, you’ll find her exploring new spots in LA, trying out fun activities, or just making great memories with the people around her. If you're interested in her previous work and leadership experience, take a look at her [resume](/updated_resume.pdf){target="_blank"}! If you’re curious about how much you have in common with h er, why not take the quiz below and find out?
 
-<div id="quiz">
+::: {#quiz}
 ## How Much Do We Have in Common?
 
 Let's find out how much we have in common! Answer the following questions, and we'll see how compatible we are at the end.
 
+\`\`\`{=html} <!-- The Quiz -->
+
+::: {#quiz-container}
+<h3>Question 1: What’s your go-to UCLA study spot?</h3>
+
+<form id="quiz-form">
+
+<label><input type="radio" name="q1" value="A"> A) Powell Library</label><br> <label><input type="radio" name="q1" value="B"> B) Kerckhoff Coffeehouse </label><br> <label><input type="radio" name="q1" value="C"> C) A Local Coffee Shop </label><br> <label><input type="radio" name="q1" value="D"> D) Young Research Library </label><br>
+
+<h3>Question 2: Ideal way to spend a free Saturday?</h3>
+
+<label><input type="radio" name="q2" value="A"> A)️ Spending the day shopping with friends</label><br> <label><input type="radio" name="q2" value="B"> B) Performing or seeing a show </label><br> <label><input type="radio" name="q2" value="C"> C) Relaxing with a movie </label><br> <label><input type="radio" name="q2" value="D"> D)️ Going to the beach </label><br>
+
+<h3>Question 3: What is your spirit animal?</h3>
+
+<label><input type="radio" name="q3" value="A"> A) Orca </label><br> <label><input type="radio" name="q3" value="B"> B) Elephant </label><br> <label><input type="radio" name="q3" value="C"> C) Tiger </label><br> <label><input type="radio" name="q3" value="D"> D) Rabbit </label><br>
+
+<h3>Question 4: What's your go-to karaoke song?</h3>
+
+<label><input type="radio" name="q4" value="A"> A) "I Will Survive" by Gloria Gaynor </label><br> <label><input type="radio" name="q4" value="B"> B) "Pink Pony Club" by Chappell Roan </label><br> <label><input type="radio" name="q4" value="C"> C) "Bohemian Rhapsody" by Queen </label><br> <label><input type="radio" name="q4" value="D"> D) I don't sing </label><br>
+
+<h3>Question 5: Pick a genre of music you like:</h3>
+
+<label><input type="radio" name="q5" value="A"> A) Pop </label><br> <label><input type="radio" name="q5" value="B"> B) Rock </label><br> <label><input type="radio" name="q5" value="C"> C) Classical </label><br> <label><input type="radio" name="q5" value="D"> D) Showtunes </label><br>
+
+<button type="button" onclick="calculateScore()">
+
+Submit
+
+</button>
+
+</form>
+:::
+
+::: {#result-container style="display: none;"}
+<h3>Your Result:</h3>
+
+<p id="quiz-result">
+
+</p>
+
+<button class="quiz-button" onclick="resetQuiz()">Take the Quiz Again</button>
+:::
+
 ```{=html}
-<!-- The Quiz -->
-<div id="quiz-container">
-  <h3>Question 1: What’s your go-to UCLA study spot?</h3>
-  <form id="quiz-form">
-    <label><input type="radio" name="q1" value="A"> A) Powell Library</label><br>
-    <label><input type="radio" name="q1" value="B"> B) Kerckhoff Coffeehouse </label><br>
-    <label><input type="radio" name="q1" value="C"> C) A Local Coffee Shop </label><br>
-    <label><input type="radio" name="q1" value="D"> D) Young Research Library </label><br>
-
-    <h3>Question 2: Ideal way to spend a free Saturday?</h3>
-    <label><input type="radio" name="q2" value="A"> A)️ Spending the day shopping with friends</label><br>
-    <label><input type="radio" name="q2" value="B"> B) Performing or seeing a show </label><br>
-    <label><input type="radio" name="q2" value="C"> C) Relaxing with a movie </label><br>
-    <label><input type="radio" name="q2" value="D"> D)️ Going to the beach </label><br>
-
-    <h3>Question 3: What is your spirit animal?</h3>
-    <label><input type="radio" name="q3" value="A"> A) Orca </label><br>
-    <label><input type="radio" name="q3" value="B"> B) Elephant </label><br>
-    <label><input type="radio" name="q3" value="C"> C) Tiger </label><br>
-    <label><input type="radio" name="q3" value="D"> D) Rabbit </label><br>
-
-    <h3>Question 4: What's your go-to karaoke song?</h3>
-    <label><input type="radio" name="q4" value="A"> A) "I Will Survive" by Gloria Gaynor </label><br>
-    <label><input type="radio" name="q4" value="B"> B) "Pink Pony Club" by Chappell Roan </label><br>
-    <label><input type="radio" name="q4" value="C"> C) "Bohemian Rhapsody" by Queen </label><br>
-    <label><input type="radio" name="q4" value="D"> D) I don't sing </label><br>
-    
-    <h3>Question 5: Pick a genre of music you like: </h3>
-    <label><input type="radio" name="q5" value="A"> A) Pop </label><br>
-    <label><input type="radio" name="q5" value="B"> B) Rock </label><br>
-    <label><input type="radio" name="q5" value="C"> C) Classical </label><br>
-    <label><input type="radio" name="q5" value="D"> D) Showtunes </label><br>
-
-    <button type="button" onclick="calculateScore()">Submit</button>
-  </form>
-</div>
-
-<div id="result-container" style="display: none;">
-  <h3>Your Result: </h3>
-  <p id="quiz-result"></p>
-  <button class="quiz-button" onclick="resetQuiz()">Take the Quiz Again</button>
-</div>
-
 <script>
 function calculateScore() {
   const answers = {
@@ -102,4 +103,5 @@ function resetQuiz() {
   document.getElementById('quiz-container').style.display = 'block';
 }
 </script>
-</div>
+```
+:::
