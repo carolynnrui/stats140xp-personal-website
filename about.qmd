@@ -9,7 +9,7 @@ Carolynn Rui is currently a fourth-year UCLA student double majoring in Psycholo
 
 Let's find out how much we have in common! Answer the following questions, and we'll see how compatible we are at the end.
 
-\`\`\`{=html} <!-- The Quiz -->
+<!-- The Quiz -->
 
 ::: {#quiz-container}
 <h3>Question 1: What’s your go-to UCLA study spot?</h3>
@@ -80,11 +80,11 @@ function calculateScore() {
 
   let resultMessage = '';
   if (score >= 40) {
-    resultMessage = "We’re practically twins! 💥";
+    resultMessage = "We’re basically twins!";
   } else if (score >= 20) {
-    resultMessage = "We have some similarities! Let’s chat more! 😎";
+    resultMessage = "We have some similarities! Let’s chat more!";
   } else {
-    resultMessage = "We might not have everything in common, but that’s okay! 😊";
+    resultMessage = "Everyone's different! In our case, it's by a lot.";
   }
 
   // Hide the quiz form and show the result
