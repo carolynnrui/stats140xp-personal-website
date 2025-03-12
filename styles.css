@@ -1,1 +1,5 @@
 /* css styles */
+
+.quarto-listing-links a i {
+    font-size: 15.0em;  /* Increase icon size */
+}
