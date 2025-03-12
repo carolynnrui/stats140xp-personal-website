@@ -2,11 +2,14 @@
 title: "On the Stage!"
 ---
 
-Although just a minor, theater and performance is a major part of Carolynn's life! It's hard to know her without knowing all of the other people she's has the pleasure of being. Just for fun, here are some of her favorite moments on the stage. 
+Although just a minor, theater and performance is a major part of Carolynn's life! It's hard to know her without knowing all of the other people she's has the pleasure of being. Just for fun, here are some of her favorite moments on the stage.
 
 ## "I'm Not Afraid of Anything" -- February 2025
 
-In 
+Hooligan Theatre Company's annual Cabaret featured a variety of vocal performances by students, who sang a repertoire of 2000s-themed musical songs. Carolynn sang "I'm Not Afraid of Anything" from *Songs for a New World*. Carolynn's favorite part of this performance was beautifully emotional, yet uplifting aura of the song. Watch the full performance [here](https://youtu.be/32agea6jfII?si=psRgNunXtbX-SvEN)! 
+
+![](cabaret1.jpg)
+![](cabaret2.jpg)
 
 ## Curtains -- December 2024
 
@@ -20,10 +23,16 @@ In *Curtains*, Carolynn played the character of Georgia Hendricks, one half of a
 
 ## "We Beseech Thee" -- May 2024
 
+In Hooligan Theatre Company's annual Showcase, several different scenes, dances and songs are performed. Carolynn was featured as a dancer in a staging of "We Beseech Thee" from *Godspell*.  Carolynn's favorite part about this performance was the upbeat dancing, cheery music and lyrics, and being able to put on a show with her favorite people.
+
+<video width="640" height="360" controls>
+  <source src="we_beseech_thee.MOV" type="video/quicktime">
+  Your browser does not support the video tag.
+</video> 
 
 ## Sunday in the Park with George -- December 2023
 
-In this surreal depiction of the life of famous painter Georges Seurat, 
+In this surreal depiction of the life of famous painter Georges Seurat, Carolynn played the role of Yvonne, the pretentious, arty wife of the famed painter Jules. While George pioneers the esteemed pointillism technique he eventually integrates into renowned works such as *A Sunday Afternoon on the Island of La Grande Jatte*, he fends off the ostentatious critiques of Jules and Yvonne. Carolynn's favorite part of being in this show was the incredibly beautiful music, composed by the late-yet-great Stephen Sondheim, and getting to comprise a husband-wife duo with a dear and remarkably talented friend.
 
 ![](sitpwg1.jpeg)
 
@@ -33,12 +42,10 @@ In this surreal depiction of the life of famous painter Georges Seurat,
 
 ## Spamalot -- April 2023
 
-*Spamalot* is a goofy musical adaptation
+*Spamalot* is a goofy musical adaptation of Monty Python's film *Monty Python and the Holy Grail*. While the musical keeps most of the classic comedic elements from the original movie, such as the use of coconuts to mimic horses' hooves and the killer rabbit, it also develops upon the character of the Lady of the Lake, who appears sporadically throughout the show to aid Arthur and his knights in their quest for the Holy Grail (or to remind the audience she's the star). Carolynn's favorite parts about this role was its challenging vocal demands and multitude of extravagant makeup and costume changes. It was a wonderfully pleasing role, both for the crowd and for the actor who had the delight of bringing it to life.
 
 ![](spam1.png)
 
 ![](spamalot3.jpeg)
 
 ![](spamalot.png)
-
-

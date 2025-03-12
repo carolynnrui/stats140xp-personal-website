@@ -26,3 +26,6 @@ Rancho Bernardo High School \| High School Diploma \| Sept 2017 - June 2021
 Hooligan Theater Company \| Finance Associate \| April 2023 - Current
 
 Tenants Law Firm \| Legal Assistant \| April 2023 - Oct 2023
+
+<p id="secret" style="display: none;">You found the secret! 🎉</p>
+<p onclick="document.getElementById('secret').style.display='block';" style="cursor: pointer; color: blue;">Click me if you dare...</p> 
