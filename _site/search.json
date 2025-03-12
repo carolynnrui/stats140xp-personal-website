@@ -42,109 +42,25 @@
     "text": "Spamalot – April 2023\nSpamalot is a goofy musical adaptation of Monty Python’s film Monty Python and the Holy Grail. While the musical keeps most of the classic comedic elements from the original movie, such as the use of coconuts to mimic horses’ hooves and the killer rabbit, it also develops upon the character of the Lady of the Lake, who appears sporadically throughout the show to aid Arthur and his knights in their quest for the Holy Grail (or to remind the audience she’s the star). Carolynn’s favorite parts about this role was its challenging vocal demands and multitude of extravagant makeup and costume changes. It was a wonderfully pleasing role, both for the crowd and for the actor who had the delight of bringing it to life."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Introduction",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
     "section": "",
-    "text": "Hi! I’m Carolynn Rui, a fourth-year UCLA student passionate about statistics, psychology and theater – storytelling occurs in all facets of each of this focuses, whether the medium be through an analysis of the data, a study of the mental processes underlying a phenomena, or a song-and-dance routine.\nExplore my website to find out more about the research projects I’ve worked on, my experiences in theater, and how I bridge the gap between data and human expression. Check out my projects, connect with me on GitHub & LinkedIn, or just say hi!"
+    "text": "Carolynn Rui is currently a fourth-year UCLA student double majoring in Psychology and Statistics with a minor in Theater. She’s especially interested in how data and human behavior intersect in research, and currently volunteers as a finance associate for Hooligan Theater Company. When she’s not analyzing numbers, she’s probably singing, performing, or planning her next adventure with friends. On weekends, you’ll find her exploring new spots in LA, trying out fun activities, or just making great memories with the people around her. If you’re interested in her previous work and leadership experience, take a look at her resume! If you’re curious about how much you have in common with h er, why not take the quiz below and find out?"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Introduction",
-    "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.A. in Psychology & B.S. in Statistics and Data Science | Sept 2021 - June 2025\nRancho Bernardo High School | High School Diploma | Sept 2017 - June 2021"
+    "objectID": "about.html#how-much-do-we-have-in-common",
+    "href": "about.html#how-much-do-we-have-in-common",
+    "title": "About Me",
+    "section": "How Much Do We Have in Common?",
+    "text": "How Much Do We Have in Common?\nLet’s find out how much we have in common! Answer the following questions, and we’ll see how compatible we are at the end.\n```{=html} \n\n\nQuestion 1: What’s your go-to UCLA study spot?\n\n\n A) Powell Library  B) Kerckhoff Coffeehouse   C) A Local Coffee Shop   D) Young Research Library \n\nQuestion 2: Ideal way to spend a free Saturday?\n\n A)️ Spending the day shopping with friends  B) Performing or seeing a show   C) Relaxing with a movie   D)️ Going to the beach \n\nQuestion 3: What is your spirit animal?\n\n A) Orca   B) Elephant   C) Tiger   D) Rabbit \n\nQuestion 4: What’s your go-to karaoke song?\n\n A) “I Will Survive” by Gloria Gaynor   B) “Pink Pony Club” by Chappell Roan   C) “Bohemian Rhapsody” by Queen   D) I don’t sing \n\nQuestion 5: Pick a genre of music you like:\n\n A) Pop   B) Rock   C) Classical   D) Showtunes \n\nSubmit\n\n\n\n\n\nYour Result:\n\n\n\n\nTake the Quiz Again"
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Introduction",
-    "section": "Experience",
-    "text": "Experience\nHooligan Theater Company | Finance Associate | April 2023 - Current\nTenants Law Firm | Legal Assistant | April 2023 - Oct 2023"
-  },
-  {
-    "objectID": "projects/project_3.html",
-    "href": "projects/project_3.html",
-    "title": "Mind Over Matter: How Test Framing and Score Perception Affect Eating Habits and Self-Efficacy",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Academic success and failure can shape emotional responses, influencing behaviors such as eating habits and self-efficacy. Research on emotional eating suggests that individuals may consume more calories when experiencing stress or self-doubt. This study examines how test framing (easy vs. hard) and score perception (pass vs. fail) affect food choices and self-efficacy in undergraduate students. We hypothesized that participants who failed an “easy” test would report lower self-efficacy and select higher-calorie foods as a coping mechanism."
-  },
-  {
-    "objectID": "projects/project_3.html#introduction",
-    "href": "projects/project_3.html#introduction",
-    "title": "Mind Over Matter: How Test Framing and Score Perception Affect Eating Habits and Self-Efficacy",
-    "section": "",
-    "text": "Academic success and failure can shape emotional responses, influencing behaviors such as eating habits and self-efficacy. Research on emotional eating suggests that individuals may consume more calories when experiencing stress or self-doubt. This study examines how test framing (easy vs. hard) and score perception (pass vs. fail) affect food choices and self-efficacy in undergraduate students. We hypothesized that participants who failed an “easy” test would report lower self-efficacy and select higher-calorie foods as a coping mechanism."
-  },
-  {
-    "objectID": "projects/project_3.html#study-design",
-    "href": "projects/project_3.html#study-design",
-    "title": "Mind Over Matter: How Test Framing and Score Perception Affect Eating Habits and Self-Efficacy",
-    "section": "Study Design",
-    "text": "Study Design\nWe conducted a 2×2 factorial design with 22 UCLA undergraduates who completed a math quiz framed as either easy or hard. Participants were then randomly assigned a passing (90%) or failing (30%) score. Afterward, they selected food items from a hypothetical menu, and self-efficacy was measured using the General Self-Efficacy Scale (GSES). The main dependent variables were caloric intake, food consumption score (FCS), and self-efficacy scores."
-  },
-  {
-    "objectID": "projects/project_3.html#key-findings",
-    "href": "projects/project_3.html#key-findings",
-    "title": "Mind Over Matter: How Test Framing and Score Perception Affect Eating Habits and Self-Efficacy",
-    "section": "Key Findings",
-    "text": "Key Findings\n\nParticipants who were told they passed selected slightly higher-calorie foods and higher-FCS items, contradicting our initial hypothesis.\nSelf-efficacy scores were more sensitive to test framing than score perception—those in the hard-test condition reported lower self-efficacy, regardless of whether they passed or failed.\nA two-way ANOVA revealed no statistically significant effects of test framing or score perception on eating behavior or self-efficacy."
-  },
-  {
-    "objectID": "projects/project_3.html#implications-and-future-directions",
-    "href": "projects/project_3.html#implications-and-future-directions",
-    "title": "Mind Over Matter: How Test Framing and Score Perception Affect Eating Habits and Self-Efficacy",
-    "section": "Implications and Future Directions",
-    "text": "Implications and Future Directions\nWhile past research links emotional states with eating habits, our study found no clear effects of manipulated academic success or failure on food choices. Possible limitations include low stakes, limited emotional investment, and an overwhelming number of menu options, which may have reduced decision-making accuracy. Future research could: - Introduce real academic pressure (e.g., real grades or timed tests) to enhance emotional engagement. - Use a more controlled menu to prevent decision fatigue. - Expand the sample size to detect potential subtle effects."
-  },
-  {
-    "objectID": "projects/project_3.html#conclusions",
-    "href": "projects/project_3.html#conclusions",
-    "title": "Mind Over Matter: How Test Framing and Score Perception Affect Eating Habits and Self-Efficacy",
-    "section": "Conclusions",
-    "text": "Conclusions\nOur findings suggest that in low-stakes settings, test difficulty and score perception may not significantly alter eating behaviors. However, understanding the link between academic experiences, self-efficacy, and coping behaviors remains important for addressing emotional eating and student well-being. Future research should refine methodologies to explore these relationships under more realistic conditions."
-  },
-  {
-    "objectID": "projects/project_1.html",
-    "href": "projects/project_1.html",
-    "title": "Effects of Exercise and Chocolate on Endorphin Levels in Women",
-    "section": "",
-    "text": "This study examines how exercise and chocolate consumption impact endorphin levels in women across different age groups. Endorphins are neurotransmitters that play a crucial role in mood regulation, pain relief, and stress reduction. Prior research has established that both physical activity and chocolate independently contribute to increased endorphin production, but their combined effects remain less explored. Our study aimed to determine whether these factors interact to enhance endorphin release."
-  },
-  {
-    "objectID": "projects/project_1.html#introduction",
-    "href": "projects/project_1.html#introduction",
-    "title": "Effects of Exercise and Chocolate on Endorphin Levels in Women",
-    "section": "",
-    "text": "This study examines how exercise and chocolate consumption impact endorphin levels in women across different age groups. Endorphins are neurotransmitters that play a crucial role in mood regulation, pain relief, and stress reduction. Prior research has established that both physical activity and chocolate independently contribute to increased endorphin production, but their combined effects remain less explored. Our study aimed to determine whether these factors interact to enhance endorphin release."
-  },
-  {
-    "objectID": "projects/project_1.html#study-design",
-    "href": "projects/project_1.html#study-design",
-    "title": "Effects of Exercise and Chocolate on Endorphin Levels in Women",
-    "section": "Study Design",
-    "text": "Study Design\nUsing a two-way randomized block design, we analyzed 162 virtual participants from The Islands online research platform. To account for potential age-related differences in endorphin levels, participants were grouped into three age categories: - Young Adults (18-34) - Middle-Aged Adults (35-54) - Older Adults (55 and above)\nParticipants were randomly assigned to one of six treatment conditions based on:\n\nExercise – No exercise vs. Light jogging (5 minutes)\nChocolate Consumption – No chocolate, 40% cocoa chocolate, or 99% cocoa chocolate\nEndorphin levels were measured in pg/mL after treatment conditions to assess changes."
-  },
-  {
-    "objectID": "projects/project_1.html#key-findings",
-    "href": "projects/project_1.html#key-findings",
-    "title": "Effects of Exercise and Chocolate on Endorphin Levels in Women",
-    "section": "Key Findings",
-    "text": "Key Findings\n\nBoth exercise and chocolate significantly increased endorphin levels\n\nParticipants who exercised had higher endorphin levels than those who did not (p = 0.009).\nChocolate consumption had an even stronger effect (p &lt; 2.44e-45), with darker chocolate (99% cocoa) leading to the highest endorphin levels.\n\nNo significant interaction between exercise and chocolate was observed\n\nThis suggests that while both factors independently raise endorphin levels, their effects do not compound when combined.\n\nAge was not a significant factor\n\nDespite prior research indicating that younger individuals may experience greater endorphin responses, we found no significant differences across age groups in our study."
-  },
-  {
-    "objectID": "projects/project_1.html#implications-future-directions",
-    "href": "projects/project_1.html#implications-future-directions",
-    "title": "Effects of Exercise and Chocolate on Endorphin Levels in Women",
-    "section": "Implications & Future Directions",
-    "text": "Implications & Future Directions\nThese results suggest that simple lifestyle choices—such as engaging in light exercise and consuming dark chocolate—can naturally enhance mood and well-being. The lack of an observed interaction between the two factors, however, indicates that their effects remain independent rather than synergistic.\nFuture research could refine these findings by examining:\n\nLonger durations or higher intensities of exercise\nAdditional dietary factors that may influence endorphin production\nHormonal and social variables (e.g., stress levels, menstrual cycles, time of day) that could impact endorphin fluctuations"
-  },
-  {
-    "objectID": "projects/project_1.html#conclusion",
-    "href": "projects/project_1.html#conclusion",
-    "title": "Effects of Exercise and Chocolate on Endorphin Levels in Women",
-    "section": "Conclusion",
-    "text": "Conclusion\nWhile both chocolate and exercise are effective in boosting endorphin levels, they do not appear to enhance each other’s effects. Nonetheless, incorporating these accessible habits into daily life may be a natural and enjoyable way to improve mental well-being."
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nSep 20, 2024\n\n\nEffects of Exercise and Chocolate on Endorphin Levels in Women\n\n\nCarolynn Rui\n\n\n\n\nDec 11, 2024\n\n\nMind Over Matter: How Test Framing and Score Perception Affect Eating Habits and Self-Efficacy\n\n\nCarolynn Rui\n\n\n\n\nDec 16, 2024\n\n\nPredicting Obesity Status Using Machine Learning Models\n\n\nCarolynn Rui\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/project_2.html",
@@ -189,32 +105,109 @@
     "text": "Conclusion\nMachine learning, particularly Random Forest, offers a highly accurate method for predicting obesity based on diverse health indicators. This approach provides a more nuanced alternative to BMI-based classifications, potentially aiding in early obesity detection and personalized health recommendations."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "projects/project_1.html",
+    "href": "projects/project_1.html",
+    "title": "Effects of Exercise and Chocolate on Endorphin Levels in Women",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nSep 20, 2024\n\n\nEffects of Exercise and Chocolate on Endorphin Levels in Women\n\n\nCarolynn Rui\n\n\n\n\nDec 11, 2024\n\n\nMind Over Matter: How Test Framing and Score Perception Affect Eating Habits and Self-Efficacy\n\n\nCarolynn Rui\n\n\n\n\nDec 16, 2024\n\n\nPredicting Obesity Status Using Machine Learning Models\n\n\nCarolynn Rui\n\n\n\n\n\nNo matching items"
+    "text": "This study examines how exercise and chocolate consumption impact endorphin levels in women across different age groups. Endorphins are neurotransmitters that play a crucial role in mood regulation, pain relief, and stress reduction. Prior research has established that both physical activity and chocolate independently contribute to increased endorphin production, but their combined effects remain less explored. Our study aimed to determine whether these factors interact to enhance endorphin release."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "projects/project_1.html#introduction",
+    "href": "projects/project_1.html#introduction",
+    "title": "Effects of Exercise and Chocolate on Endorphin Levels in Women",
     "section": "",
-    "text": "Carolynn Rui is currently a fourth-year UCLA student double majoring in Psychology and Statistics with a minor in Theater. She’s especially interested in how data and human behavior intersect in research, and currently volunteers as a finance associate for Hooligan Theater Company. When she’s not analyzing numbers, she’s probably singing, performing, or planning her next adventure with friends. On weekends, you’ll find her exploring new spots in LA, trying out fun activities, or just making great memories with the people around her. If you’re interested in her previous work and leadership experience, take a look at her resume! If you’re curious about how much you have in common with h er, why not take the quiz below and find out?"
+    "text": "This study examines how exercise and chocolate consumption impact endorphin levels in women across different age groups. Endorphins are neurotransmitters that play a crucial role in mood regulation, pain relief, and stress reduction. Prior research has established that both physical activity and chocolate independently contribute to increased endorphin production, but their combined effects remain less explored. Our study aimed to determine whether these factors interact to enhance endorphin release."
   },
   {
-    "objectID": "about.html#welcome-to-the-quiz",
-    "href": "about.html#welcome-to-the-quiz",
-    "title": "About",
-    "section": "Welcome to the Quiz!",
-    "text": "Welcome to the Quiz!\nLet’s find out how much we have in common! Answer the following questions, and we’ll see your final score at the end.\n\n\n\nQuestion 1: What’s your go-to UCLA study spot?\n\n\n A) Powell Library 📚  B) Kerckhoff Coffeehouse ☕  C) Any empty classroom I can find 🤓  D) I don’t study, I vibe ✨\n\nQuestion 2: Ideal way to spend a free Saturday?\n\n A) Exploring a new LA restaurant 🍽️  B) Performing or seeing a show 🎭  C) Going down a random stats rabbit hole 📊  D) Beach day with friends ☀️\n\nQuestion 3: How do you feel about spreadsheets?\n\n A) Love them, color-coded and all 🟩🟨  B) Use them, but only when I have to 😬  C) They haunt my dreams 👻  D) What’s a spreadsheet? 🤔\n\nQuestion 4: Karaoke night—what’s your song?\n\n A) A Broadway classic 🎶  B) A pop anthem everyone screams along to 🎤  C) Something super obscure to flex my music taste 🎧  D) No way, I’m just here for moral support 👀\n\nSubmit\n\n\n\n\n\nYour Result:"
+    "objectID": "projects/project_1.html#study-design",
+    "href": "projects/project_1.html#study-design",
+    "title": "Effects of Exercise and Chocolate on Endorphin Levels in Women",
+    "section": "Study Design",
+    "text": "Study Design\nUsing a two-way randomized block design, we analyzed 162 virtual participants from The Islands online research platform. To account for potential age-related differences in endorphin levels, participants were grouped into three age categories: - Young Adults (18-34) - Middle-Aged Adults (35-54) - Older Adults (55 and above)\nParticipants were randomly assigned to one of six treatment conditions based on:\n\nExercise – No exercise vs. Light jogging (5 minutes)\nChocolate Consumption – No chocolate, 40% cocoa chocolate, or 99% cocoa chocolate\nEndorphin levels were measured in pg/mL after treatment conditions to assess changes."
   },
   {
-    "objectID": "about.html#how-much-do-we-have-in-common",
-    "href": "about.html#how-much-do-we-have-in-common",
-    "title": "About",
-    "section": "How Much Do We Have in Common?",
-    "text": "How Much Do We Have in Common?\nLet’s find out how much we have in common! Answer the following questions, and we’ll see how compatible we are at the end.\n\n\n\nQuestion 1: What’s your go-to UCLA study spot?\n\n\n A) Powell Library  B) Kerckhoff Coffeehouse   C) A Local Coffee Shop   D) Young Research Library \n\nQuestion 2: Ideal way to spend a free Saturday?\n\n A)️ Spending the day shopping with friends  B) Performing or seeing a show   C) Relaxing with a movie   D)️ Going to the beach \n\nQuestion 3: What is your spirit animal?\n\n A) Orca   B) Elephant   C) Tiger   D) Rabbit \n\nQuestion 4: What’s your go-to karaoke song?\n\n A) “I Will Survive” by Gloria Gaynor   B) “Pink Pony Club” by Chappell Roan   C) “Bohemian Rhapsody” by Queen   D) I don’t sing \n\nQuestion 5: Pick a genre of music you like:\n\n A) Pop   B) Rock   C) Classical   D) Showtunes \n\nSubmit\n\n\n\n\n\nYour Result:\n\n\n\nTake the Quiz Again"
+    "objectID": "projects/project_1.html#key-findings",
+    "href": "projects/project_1.html#key-findings",
+    "title": "Effects of Exercise and Chocolate on Endorphin Levels in Women",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nBoth exercise and chocolate significantly increased endorphin levels\n\nParticipants who exercised had higher endorphin levels than those who did not (p = 0.009).\nChocolate consumption had an even stronger effect (p &lt; 2.44e-45), with darker chocolate (99% cocoa) leading to the highest endorphin levels.\n\nNo significant interaction between exercise and chocolate was observed\n\nThis suggests that while both factors independently raise endorphin levels, their effects do not compound when combined.\n\nAge was not a significant factor\n\nDespite prior research indicating that younger individuals may experience greater endorphin responses, we found no significant differences across age groups in our study."
+  },
+  {
+    "objectID": "projects/project_1.html#implications-future-directions",
+    "href": "projects/project_1.html#implications-future-directions",
+    "title": "Effects of Exercise and Chocolate on Endorphin Levels in Women",
+    "section": "Implications & Future Directions",
+    "text": "Implications & Future Directions\nThese results suggest that simple lifestyle choices—such as engaging in light exercise and consuming dark chocolate—can naturally enhance mood and well-being. The lack of an observed interaction between the two factors, however, indicates that their effects remain independent rather than synergistic.\nFuture research could refine these findings by examining:\n\nLonger durations or higher intensities of exercise\nAdditional dietary factors that may influence endorphin production\nHormonal and social variables (e.g., stress levels, menstrual cycles, time of day) that could impact endorphin fluctuations"
+  },
+  {
+    "objectID": "projects/project_1.html#conclusion",
+    "href": "projects/project_1.html#conclusion",
+    "title": "Effects of Exercise and Chocolate on Endorphin Levels in Women",
+    "section": "Conclusion",
+    "text": "Conclusion\nWhile both chocolate and exercise are effective in boosting endorphin levels, they do not appear to enhance each other’s effects. Nonetheless, incorporating these accessible habits into daily life may be a natural and enjoyable way to improve mental well-being."
+  },
+  {
+    "objectID": "projects/project_3.html",
+    "href": "projects/project_3.html",
+    "title": "Mind Over Matter: How Test Framing and Score Perception Affect Eating Habits and Self-Efficacy",
+    "section": "",
+    "text": "Academic success and failure can shape emotional responses, influencing behaviors such as eating habits and self-efficacy. Research on emotional eating suggests that individuals may consume more calories when experiencing stress or self-doubt. This study examines how test framing (easy vs. hard) and score perception (pass vs. fail) affect food choices and self-efficacy in undergraduate students. We hypothesized that participants who failed an “easy” test would report lower self-efficacy and select higher-calorie foods as a coping mechanism."
+  },
+  {
+    "objectID": "projects/project_3.html#introduction",
+    "href": "projects/project_3.html#introduction",
+    "title": "Mind Over Matter: How Test Framing and Score Perception Affect Eating Habits and Self-Efficacy",
+    "section": "",
+    "text": "Academic success and failure can shape emotional responses, influencing behaviors such as eating habits and self-efficacy. Research on emotional eating suggests that individuals may consume more calories when experiencing stress or self-doubt. This study examines how test framing (easy vs. hard) and score perception (pass vs. fail) affect food choices and self-efficacy in undergraduate students. We hypothesized that participants who failed an “easy” test would report lower self-efficacy and select higher-calorie foods as a coping mechanism."
+  },
+  {
+    "objectID": "projects/project_3.html#study-design",
+    "href": "projects/project_3.html#study-design",
+    "title": "Mind Over Matter: How Test Framing and Score Perception Affect Eating Habits and Self-Efficacy",
+    "section": "Study Design",
+    "text": "Study Design\nWe conducted a 2×2 factorial design with 22 UCLA undergraduates who completed a math quiz framed as either easy or hard. Participants were then randomly assigned a passing (90%) or failing (30%) score. Afterward, they selected food items from a hypothetical menu, and self-efficacy was measured using the General Self-Efficacy Scale (GSES). The main dependent variables were caloric intake, food consumption score (FCS), and self-efficacy scores."
+  },
+  {
+    "objectID": "projects/project_3.html#key-findings",
+    "href": "projects/project_3.html#key-findings",
+    "title": "Mind Over Matter: How Test Framing and Score Perception Affect Eating Habits and Self-Efficacy",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nParticipants who were told they passed selected slightly higher-calorie foods and higher-FCS items, contradicting our initial hypothesis.\nSelf-efficacy scores were more sensitive to test framing than score perception—those in the hard-test condition reported lower self-efficacy, regardless of whether they passed or failed.\nA two-way ANOVA revealed no statistically significant effects of test framing or score perception on eating behavior or self-efficacy."
+  },
+  {
+    "objectID": "projects/project_3.html#implications-and-future-directions",
+    "href": "projects/project_3.html#implications-and-future-directions",
+    "title": "Mind Over Matter: How Test Framing and Score Perception Affect Eating Habits and Self-Efficacy",
+    "section": "Implications and Future Directions",
+    "text": "Implications and Future Directions\nWhile past research links emotional states with eating habits, our study found no clear effects of manipulated academic success or failure on food choices. Possible limitations include low stakes, limited emotional investment, and an overwhelming number of menu options, which may have reduced decision-making accuracy. Future research could: - Introduce real academic pressure (e.g., real grades or timed tests) to enhance emotional engagement. - Use a more controlled menu to prevent decision fatigue. - Expand the sample size to detect potential subtle effects."
+  },
+  {
+    "objectID": "projects/project_3.html#conclusions",
+    "href": "projects/project_3.html#conclusions",
+    "title": "Mind Over Matter: How Test Framing and Score Perception Affect Eating Habits and Self-Efficacy",
+    "section": "Conclusions",
+    "text": "Conclusions\nOur findings suggest that in low-stakes settings, test difficulty and score perception may not significantly alter eating behaviors. However, understanding the link between academic experiences, self-efficacy, and coping behaviors remains important for addressing emotional eating and student well-being. Future research should refine methodologies to explore these relationships under more realistic conditions."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Hi! I’m Carolynn Rui, a fourth-year UCLA student passionate about statistics, psychology and theater – storytelling occurs in all facets of each of this focuses, whether the medium be through an analysis of the data, a study of the mental processes underlying a phenomena, or a song-and-dance routine.\nExplore my website to find out more about the research projects I’ve worked on, my experiences in theater, and how I bridge the gap between data and human expression. Check out my projects, connect with me on GitHub & LinkedIn, or just say hi!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Introduction",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.A. in Psychology & B.S. in Statistics and Data Science | Sept 2021 - June 2025\nRancho Bernardo High School | High School Diploma | Sept 2017 - June 2021"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Introduction",
+    "section": "Experience",
+    "text": "Experience\nHooligan Theater Company | Finance Associate | April 2023 - Current\nTenants Law Firm | Legal Assistant | April 2023 - Oct 2023"
   },
   {
     "objectID": "quiz.html",
@@ -229,12 +222,5 @@
     "title": "How Much in Common Do We Have?",
     "section": "",
     "text": "Let’s find out how much we have in common! Answer the following questions, and we’ll see your final score at the end.\n\n\n\n\n A) Powell Library 📚  B) Kerckhoff Coffeehouse ☕  C) Any empty classroom I can find 🤓  D) I don’t study, I vibe ✨\n\n A) Exploring a new LA restaurant 🍽️  B) Performing or seeing a show 🎭  C) Going down a random stats rabbit hole 📊  D) Beach day with friends ☀️\n\n A) Love them, color-coded and all 🟩🟨  B) Use them, but only when I have to 😬  C) They haunt my dreams 👻  D) What’s a spreadsheet? 🤔\n\n A) A Broadway classic 🎶  B) A pop anthem everyone screams along to 🎤  C) Something super obscure to flex my music taste 🎧  D) No way, I’m just here for moral support 👀\n\nSubmit"
-  },
-  {
-    "objectID": "index.html#recent-experience",
-    "href": "index.html#recent-experience",
-    "title": "Introduction",
-    "section": "Recent Experience",
-    "text": "Recent Experience\nHooligan Theater Company | Finance Associate | April 2023 - Current\nTenants Law Firm | Legal Assistant | April 2023 - Oct 2023"
   }
 ]
