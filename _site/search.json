@@ -81,21 +81,21 @@
     "href": "projects/project_2.html#study-design",
     "title": "Predicting Obesity Status Using Machine Learning Models",
     "section": "Study Design",
-    "text": "Study Design\nWe analyzed a dataset containing 29 predictors related to health, lifestyle, and family history. To ensure robust results, we performed multiple imputation for missing data and conducted exploratory data analysis to refine our predictor selection. The dataset was then split into training and testing sets, and we evaluated five machine learning models: - K-Nearest Neighbors (KNN) - Linear Discriminant Analysis (LDA) - Quadratic Discriminant Analysis (QDA) - Logistic Regression - Random Forest Each model was assessed for predictive accuracy, interpretability, and computational efficiency."
+    "text": "Study Design\nWe analyzed a dataset containing 29 predictors related to health, lifestyle, and family history. To ensure robust results, we performed multiple imputation for missing data and conducted exploratory data analysis to refine our predictor selection. The dataset was then split into training and testing sets, and we evaluated five machine learning models:\n\nK-Nearest Neighbors (KNN)\nLinear Discriminant Analysis (LDA)\nQuadratic Discriminant Analysis (QDA)\nLogistic Regression\nRandom Forest\n\nEach model was assessed for predictive accuracy, interpretability, and computational efficiency."
   },
   {
     "objectID": "projects/project_2.html#key-findings",
     "href": "projects/project_2.html#key-findings",
     "title": "Predicting Obesity Status Using Machine Learning Models",
     "section": "Key Findings",
-    "text": "Key Findings\nRandom Forest Achieved the Highest Accuracy - The Random Forest model outperformed all others, with a 98.33% accuracy rate in predicting obesity status. - Its ensemble learning approach allowed for better handling of complex relationships in the data.\nPhysical Activity and Hydration Were Strong Predictors - Higher levels of physical activity (FAF) were significantly associated with lower obesity risk. - Water intake (CH2O) also showed a notable relationship with obesity status.\nTraditional Measures Like BMI Were Not Included - Unlike most obesity prediction models, this study excluded BMI and instead relied on alternative health indicators."
+    "text": "Key Findings\n\nRandom Forest Achieved the Highest Accuracy\n\nThe Random Forest model outperformed all others, with a 98.33% accuracy rate in predicting obesity status.\nIts ensemble learning approach allowed for better handling of complex relationships in the data.\n\nPhysical Activity and Hydration Were Strong Predictors\n\nHigher levels of physical activity (FAF) were significantly associated with lower obesity risk.\nWater intake (CH2O) also showed a notable relationship with obesity status.\n\nTraditional Measures Like BMI Were Not Included\n\nUnlike most obesity prediction models, this study excluded BMI and instead relied on alternative health indicators."
   },
   {
     "objectID": "projects/project_2.html#implications-and-future-directions",
     "href": "projects/project_2.html#implications-and-future-directions",
     "title": "Predicting Obesity Status Using Machine Learning Models",
     "section": "Implications and Future Directions",
-    "text": "Implications and Future Directions\nThese findings highlight the potential of machine learning for more accurate obesity screening without relying solely on BMI. The study suggests that lifestyle and physiological factors can serve as reliable predictors. However, challenges remain, particularly regarding the interpretability of complex models like Random Forest.\nFuture research could explore: - Feature importance analysis to better understand which variables drive predictions. - Deep learning models for improved accuracy and generalization. - Longitudinal studies to track how obesity risk factors change over time."
+    "text": "Implications and Future Directions\nThese findings highlight the potential of machine learning for more accurate obesity screening without relying solely on BMI. The study suggests that lifestyle and physiological factors can serve as reliable predictors. However, challenges remain, particularly regarding the interpretability of complex models like Random Forest.\nFuture research could explore:\n\nFeature importance analysis to better understand which variables drive predictions.\nDeep learning models for improved accuracy and generalization.\nLongitudinal studies to track how obesity risk factors change over time."
   },
   {
     "objectID": "projects/project_2.html#conclusion",
@@ -123,7 +123,7 @@
     "href": "projects/project_1.html#study-design",
     "title": "Effects of Exercise and Chocolate on Endorphin Levels in Women",
     "section": "Study Design",
-    "text": "Study Design\nUsing a two-way randomized block design, we analyzed 162 virtual participants from The Islands online research platform. To account for potential age-related differences in endorphin levels, participants were grouped into three age categories: - Young Adults (18-34) - Middle-Aged Adults (35-54) - Older Adults (55 and above)\nParticipants were randomly assigned to one of six treatment conditions based on:\n\nExercise – No exercise vs. Light jogging (5 minutes)\nChocolate Consumption – No chocolate, 40% cocoa chocolate, or 99% cocoa chocolate\nEndorphin levels were measured in pg/mL after treatment conditions to assess changes."
+    "text": "Study Design\nUsing a two-way randomized block design, we analyzed 162 virtual participants from The Islands online research platform. To account for potential age-related differences in endorphin levels, participants were grouped into three age categories:\n\nYoung Adults (18-34)\nMiddle-Aged Adults (35-54)\nOlder Adults (55 and above)\n\nParticipants were randomly assigned to one of six treatment conditions based on:\n\nExercise – No exercise vs. Light jogging (5 minutes)\nChocolate Consumption – No chocolate, 40% cocoa chocolate, or 99% cocoa chocolate\nEndorphin levels were measured in pg/mL after treatment conditions to assess changes."
   },
   {
     "objectID": "projects/project_1.html#key-findings",
@@ -179,7 +179,7 @@
     "href": "projects/project_3.html#implications-and-future-directions",
     "title": "Mind Over Matter: How Test Framing and Score Perception Affect Eating Habits and Self-Efficacy",
     "section": "Implications and Future Directions",
-    "text": "Implications and Future Directions\nWhile past research links emotional states with eating habits, our study found no clear effects of manipulated academic success or failure on food choices. Possible limitations include low stakes, limited emotional investment, and an overwhelming number of menu options, which may have reduced decision-making accuracy. Future research could: - Introduce real academic pressure (e.g., real grades or timed tests) to enhance emotional engagement. - Use a more controlled menu to prevent decision fatigue. - Expand the sample size to detect potential subtle effects."
+    "text": "Implications and Future Directions\nWhile past research links emotional states with eating habits, our study found no clear effects of manipulated academic success or failure on food choices. Possible limitations include low stakes, limited emotional investment, and an overwhelming number of menu options, which may have reduced decision-making accuracy. Future research could:\n\nIntroduce real academic pressure (e.g., real grades or timed tests) to enhance emotional engagement.\nUse a more controlled menu to prevent decision fatigue.\nExpand the sample size to detect potential subtle effects."
   },
   {
     "objectID": "projects/project_3.html#conclusions",

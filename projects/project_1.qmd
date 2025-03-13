@@ -10,7 +10,11 @@ This study examines how exercise and chocolate consumption impact endorphin leve
 
 ## Study Design
 
-Using a two-way randomized block design, we analyzed 162 virtual participants from The Islands online research platform. To account for potential age-related differences in endorphin levels, participants were grouped into three age categories: - Young Adults (18-34) - Middle-Aged Adults (35-54) - Older Adults (55 and above)
+Using a two-way randomized block design, we analyzed 162 virtual participants from The Islands online research platform. To account for potential age-related differences in endorphin levels, participants were grouped into three age categories:
+
+-   Young Adults (18-34)
+-   Middle-Aged Adults (35-54)
+-   Older Adults (55 and above)
 
 Participants were randomly assigned to one of six treatment conditions based on:
 

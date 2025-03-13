@@ -14,15 +14,16 @@ We conducted a 2×2 factorial design with 22 UCLA undergraduates who completed a
 
 ## Key Findings
 
-- Participants who were told they passed selected slightly higher-calorie foods and higher-FCS items, contradicting our initial hypothesis.
-- Self-efficacy scores were more sensitive to test framing than score perception—those in the hard-test condition reported lower self-efficacy, regardless of whether they passed or failed.
-- A two-way ANOVA revealed no statistically significant effects of test framing or score perception on eating behavior or self-efficacy.
+-   Participants who were told they passed selected slightly higher-calorie foods and higher-FCS items, contradicting our initial hypothesis.
+-   Self-efficacy scores were more sensitive to test framing than score perception—those in the hard-test condition reported lower self-efficacy, regardless of whether they passed or failed.
+-   A two-way ANOVA revealed no statistically significant effects of test framing or score perception on eating behavior or self-efficacy.
 
 ## Implications and Future Directions
 
-While past research links emotional states with eating habits, our study found no clear effects of manipulated academic success or failure on food choices. Possible limitations include low stakes, limited emotional investment, and an overwhelming number of menu options, which may have reduced decision-making accuracy. Future research could:
-- Introduce real academic pressure (e.g., real grades or timed tests) to enhance emotional engagement.
-- Use a more controlled menu to prevent decision fatigue.
+While past research links emotional states with eating habits, our study found no clear effects of manipulated academic success or failure on food choices. Possible limitations include low stakes, limited emotional investment, and an overwhelming number of menu options, which may have reduced decision-making accuracy. Future research could: 
+
+- Introduce real academic pressure (e.g., real grades or timed tests) to enhance emotional engagement. 
+- Use a more controlled menu to prevent decision fatigue. 
 - Expand the sample size to detect potential subtle effects.
 
 ## Conclusions
